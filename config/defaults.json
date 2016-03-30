@@ -113,6 +113,7 @@
   "forceSafeImageURLs": true,
   "segmentKey": "",
   "availableLocales": [
+    "bg", 
     "ca",
     "de",
     "en",
