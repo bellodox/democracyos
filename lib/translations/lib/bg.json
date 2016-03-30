@@ -255,6 +255,7 @@
   "settings.first-name": "Собствено име",
   "settings.last-name": "Фамилия",
   "settings.locale": "Език",
+  "settings.locale.bg": "Bulgarian",
   "settings.locale.ca": "Catalan",
   "settings.locale.de": "Deutsche",
   "settings.locale.en": "English",
